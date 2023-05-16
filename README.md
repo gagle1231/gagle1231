@@ -40,7 +40,7 @@
   ###  I’m currently studying 🌱
   <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/salesforce-3e76AE?style=flat-square&logo=salesforce&logoColor=white"> 
-    <img src="https://img.shields.io/badge/react-3776AB?style=flat-square&logo=React&logoColor=white">
+    <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=white">
     <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=black"/>
 </div><br>
   
