@@ -44,9 +44,6 @@
     <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=black"/>
 </div><br>
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gagle1231&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gagle1231)
-  
 
 
 
