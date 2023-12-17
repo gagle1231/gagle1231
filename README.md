@@ -22,6 +22,9 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 <br>
 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gagle1231&layout=compact)](https://github.com/gagle1231/github-readme-stats)
 
 
 ### 🛠️ Tools
