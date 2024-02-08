@@ -5,7 +5,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Ga%20Eun's%20Github!&fontSize=100&animation=fadeIn&fontAlign=50)
 
-### Welcome to my Github:star:  
+### Welcome to my Github🌟  
 
 ### 🔭 I’m currently majoring in Computer Science at Dongduk Women's University.<br><br>
 
