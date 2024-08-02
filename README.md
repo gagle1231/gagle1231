@@ -30,6 +30,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gagle1231&layout=compact)](https://github.com/gagle1231/github-readme-stats)
 
 
+
 ### 🛠️ Tools
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
@@ -39,13 +40,6 @@
 <img src="https://img.shields.io/badge/VMWare-000000?style=flat-square&logo=VMware&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br>
-
-
-
-  ###  I’m currently studying 🌱
-  <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
-</div><br>
   
 
 
