@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Ga%20Eun's%20Github!&fontSize=100&animation=fadeIn&fontAlign=50)
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Gaeun's%20Github!&fontSize=100&animation=fadeIn&fontAlign=50)
 
 ### 🌟Welcome to my Github🌟  
 
