@@ -2,13 +2,13 @@
   <h1>Hi 👋, I'm Gaeun Kim</h1>
   <h3>A developer who loves building with Spring, Salesforce, and Java</h3>
 
-  - 💻 Currently working as a **Salesforce Developer** at **Daesang Information Technology**
-  - ☁️ Mainly developing **Sales Cloud** features using Apex and Salesforce Platform
+  - 💻 Working as a **Salesforce Developer**, focusing on backend development
+  - ☁️ Mainly developing **Sales Cloud** features using Apex and the Salesforce Platform  
   - 🌱 Experienced in **backend development** with **Spring Framework**
   - 🎓 Majored in Computer Science at **Dongduk Women's University (2020–2024)**
   - 📝 I write tech blogs at [Dev-log](https://cochun-diary.tistory.com/)
   - 📬 Contact me: **kke1374@gmail.com**
-
+    
   <br>
 
   <h3 align="left">Languages and Tools</h3>
